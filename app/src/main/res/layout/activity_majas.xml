@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="id.sch.smktelkom_mlg.project2.xirpl42022242835.intisaribahasa.MajasActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FF00CCFF"
+        android:orientation="vertical">
+
+        <ImageButton
+            android:id="@+id/btPerb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="120dp"
+            android:background="#F5F5F5"
+            android:onClick="goToAttact"
+            android:src="@drawable/perb" />
+
+        <ImageButton
+            android:id="@+id/btPert"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="120dp"
+            android:layout_marginTop="150dp"
+            android:background="#F5F5F5"
+            android:onClick="goToAttact"
+            android:src="@drawable/pert" />
+
+        <ImageButton
+            android:id="@+id/btSin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="120dp"
+            android:layout_marginTop="300dp"
+            android:background="#F5F5F5"
+            android:onClick="goToAttact"
+            android:src="@drawable/sin" />
+
+        <ImageButton
+            android:id="@+id/btPen"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="120dp"
+            android:layout_marginTop="450dp"
+            android:background="#F5F5F5"
+            android:onClick="goToAttact"
+            android:src="@drawable/pen" />
+    </RelativeLayout>
+
+</LinearLayout>

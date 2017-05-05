@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="id.sch.smktelkom_mlg.project2.xirpl42022242835.intisaribahasa.RumahFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#F5F5F5"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/ivintisari"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/intisari" />
+
+
+    </RelativeLayout>
+</FrameLayout>

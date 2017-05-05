@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home"/>
+        <item
+            android:id="@+id/nav_antonim"
+            android:icon="@drawable/ic_compare_arrows_black_24dp"
+            android:title="Antonim"
+            />
+        <item
+            android:id="@+id/kataawal"
+            android:icon="@drawable/ic_chevron_left_black_24dp"
+            android:title="Kata Awalan" />
+        <item
+            android:id="@+id/katadasar"
+            android:icon="@drawable/ic_space_bar_black_24dp"
+            android:title="Kata Dasar" />
+        <item
+            android:id="@+id/majas"
+            android:icon="@drawable/ic_code_black_24dp"
+            android:title="Majas" />
+        <item
+            android:id="@+id/peribahasa"
+            android:icon="@drawable/ic_clear_all_black_24dp"
+            android:title="Peribahasa" />
+        <item
+            android:id="@+id/sinonim"
+            android:icon="@drawable/ic_drag_handle_black_24dp"
+            android:title="Sinonim" />
+    </group>
+
+    <item android:title="About">
+        <menu>
+            <item
+                android:id="@+id/aboutus"
+                android:icon="@drawable/ic_info_black_24dp"
+                android:title="About Us" />
+
+        </menu>
+    </item>
+
+</menu>

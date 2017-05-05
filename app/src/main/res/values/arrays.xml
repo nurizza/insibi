@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="antonim">
+        <item>Abadi X Fana antonim         </item>
+        <item>Abdi X Majikan               </item>
+        <item>Abolisi X Pemberatan         </item>
+        <item>Absen X Hadir                </item>
+        <item>Abstrak X Konkrit            </item>
+        <item>Absurd X Rasional            </item>
+        <item>Aktual X Basi                </item>
+        <item>Afirmatif X Negatif          </item>
+        <item>Akrab X Tak kenal            </item>
+        <item>Akurat X Meleset             </item>
+        <item>Akut X Ringan                </item>
+        <item>Alam fana X Alam baka        </item>
+        <item>Amatir X Ahli                </item>
+        <item>Anomali X Normal             </item>
+        <item>Antagonis X Protagonis       </item>
+        <item>Antagonis X Searah           </item>
+        <item>Antipati X Simpati           </item>
+        <item>Antitesis X Tesis            </item>
+        <item>Apatis X Aktif               </item>
+        <item>Apex X Zenit                 </item>
+        <item>Arbitrer X Esensial          </item>
+        <item>Artika X Antartika           </item>
+        <item>Asketisme X Hedonisme        </item>
+        <item>Asli X Duplikat              </item>
+        <item>Asli X Palsu                 </item>
+        <item>Autentik X Palsu             </item>
+        <item>Beraneka X Semacam antonim   </item>
+        <item>Berbeda X Sesuai             </item>
+        <item>Berhasil X Gagal             </item>
+        <item>Berongga X Rapat             </item>
+        <item>Berpihak X Netral            </item>
+        <item>Berselang-seling X Monoton   </item>
+        <item>Bersimbah X Kering           </item>
+        <item>Berubah X Konstan            </item>
+        <item>Bhineka X Tunggal            </item>
+        <item>Bonafid X Marjinal           </item>
+        <item>Bongsor X Kerdil             </item>
+        <item>Boros X Hemat                </item>
+        <item>Botani X Nabati              </item>
+        <item>Brilian X Dungu              </item>
+        <item>Cacat X Normal antonim       </item>
+        <item>Canggih X Ketinggalan zaman  </item>
+        <item>Cepat X Lambat               </item>
+        <item>Deduksi X Induksi antonim    </item>
+        <item>Defertilisasi X Pemupukan    </item>
+        <item>Degenerasi X Kemajuan        </item>
+        <item>Delusi X Nyata               </item>
+        <item>Dependen X Independen        </item>
+        <item>Depresi X Resesi             </item>
+        <item>Destruktif X Konstruktif     </item>
+        <item>Dialog X Monolog             </item>
+        <item>Diferensiasi X Ekuivalensi   </item>
+        <item>Dinamis X Statis             </item>
+        <item>Diskursus X Dogma            </item>
+        <item>Distansi X Densiti           </item>
+        <item>Dualisme X Padu              </item>
+        <item>Dungu X Brilian              </item>
+        <item>Eklektik X Gradul antonim    </item>
+        <item>Ekspresi X Impresi           </item>
+        <item>Ekspresif X Pasif            </item>
+        <item>Eksternal X Internal         </item>
+        <item>Ekstrinsik X Internal        </item>
+        <item>Elastis X Kaku               </item>
+        <item>Elektik X Tak pilih-pilih    </item>
+        <item>Elusif X Canggih             </item>
+        <item>Elusif X Mudah dimengerti    </item>
+        <item>Empati X Tidak peduli        </item>
+        <item>Epigon X Maestro             </item>
+        <item>Esoteris X Terbuka           </item>
+        <item>Evaporasi X Kondensasi       </item>
+        <item>Evolusi X Revolusi           </item>
+        <item>Fakta X Fiksi                </item>
+        <item>Feminim X Maskulin           </item>
+        <item>Fiksi X Nonfiksi             </item>
+        <item>Fiktif X Fakta               </item>
+        <item>Fisik X Mental               </item>
+        <item>Frontal X Gradual            </item>
+        <item>Gagal X Berhasil             </item>
+        <item>Gamang X Berani              </item>
+        <item>Gara-gara X Akibat           </item>
+        <item>Gasal X Genap                </item>
+        <item>Harmoni X Sumbang            </item>
+        <item>Hayati X Baka                </item>
+        <item>Hayati X Mati                </item>
+        <item>Hemat X Boros                </item>
+        <item>Higienis X Kotor             </item>
+        <item>Hiperbola X Apa adanya       </item>
+        <item>Holistik X Monistik          </item>
+        <item>Idealisme X Kompromi         </item>
+        <item>Illegal X Sah                </item>
+        <item>Imigrasi X Emigrasi          </item>
+        <item>Impresi X Ekspresi           </item>
+        <item>Individual X Kolektif        </item>
+        <item>Induksi X Reduksi            </item>
+        <item>Inferior X Superior          </item>
+        <item>Inflasi X Deflasi            </item>
+        <item>Insomnia X Nyenyak           </item>
+        <item>Internal X Eksternal         </item>
+        <item>Introyeksi X Proyeksi        </item>
+        <item>Jahat X Baik                 </item>
+        <item>Jawab X Tanya                </item>
+        <item>Jinak X Buas                 </item>
+        <item>Jumbo X Kecil                </item>
+        <item>Kakek X Cucu                 </item>
+        <item>Kaleidoskop X Seragam        </item>
+        <item>Kandang X Tandang            </item>
+        <item>Kapabel X Bodoh              </item>
+        <item>Kapitalisme X Sosialisme anto</item>
+        <item>Kebal X Mempan               </item>
+        <item>Kecil X Besar                </item>
+        <item>Kedaluwarsa X Baru           </item>
+        <item>Kekal X Fana                 </item>
+        <item>Kekang X Bebas               </item>
+        <item>Kendala X Pendukung          </item>
+        <item>Kohesi X Adhesi              </item>
+        <item>Kolektif X Individual        </item>
+        <item>Kompatibel X Kaku            </item>
+        <item>Konduktor X Penghambat       </item>
+        <item>Konklusi X Uraian            </item>
+        <item>Konklusif X Elusif           </item>
+        <item>Konrol X Acuh                </item>
+        <item>Konservasi X Ekploitasi      </item>
+        <item>Konstan X Berubah-ubah       </item>
+        <item>Konsumen X Penghasil         </item>
+        <item>Kontan X Hutang              </item>
+        <item>Kontiniu X Terputus          </item>
+        <item>Kontra X Setuju              </item>
+        <item>Kontradiksi X Konvergensi    </item>
+        <item>Konveks X Cekung/konkaf      </item>
+        <item>Kredit X Pemasukan           </item>
+        <item>Krisis X Stabil              </item>
+        <item>Krusial X Sepele             </item>
+        <item>Kualitas X Kuantitas         </item>
+        <item>Kurus X Tambun               </item>
+        <item>Labil X Stabil               </item>
+        <item>Lambat X Cepat               </item>
+        <item>Lancar X Macet               </item>
+        <item>Lancung X Asli               </item>
+        <item>Langit X Bumi                </item>
+        <item>Las X Bubut                  </item>
+        <item>Liberal X Pembatasan         </item>
+        <item>Liberalisme X Fundamentalisme</item>
+        <item>Longgar X Sempit             </item>
+        <item>Makar X Jujur                </item>
+        <item>Makar X Setia                </item>
+        <item>Mandiri X Bergantung         </item>
+        <item>Mandiri X Dependen           </item>
+        <item>Marah X Senang               </item>
+        <item>Maya X Nyata                 </item>
+        <item>Merana X Senang              </item>
+        <item>Merdeka X Vasal              </item>
+        <item>Metafisika X Nyata           </item>
+        <item>Metodis X Amburadul          </item>
+        <item>Minor X Mayor                </item>
+        <item>Mistis X Realis              </item>
+        <item>Mitos X Fakta                </item>
+        <item>Mobilitas X Keajegan         </item>
+        <item>Modern X Kuno                </item>
+        <item>Modernisasi X Tradisional    </item>
+        <item>Monogami X Poligami          </item>
+        <item>Monoton X Berubah-ubah       </item>
+        <item>Moral X Amoral               </item>
+        <item>Mufakat X Tidak setuju       </item>
+        <item>Nadir X Kosong               </item>
+        <item>Negasi X Konfirmasi          </item>
+        <item>Nekat X Takut                </item>
+        <item>Netral X Berpihak            </item>
+        <item>Nirwana X Dunia              </item>
+        <item>Nisbi X Mutlak               </item>
+        <item>Nomadik X Menetap            </item>
+        <item>Ofensif X Bertahan           </item>
+        <item>Oponen X Eksponen            </item>
+        <item>Orator X Pendengar           </item>
+        <item>Orisinil X Plagiat           </item>
+        <item>Otokratis X Demokratis       </item>
+        <item>Otoriter X Demokrasi         </item>
+        <item>Out put X Input              </item>
+        <item>Padan X Bukan bandingan      </item>
+        <item>Padanan X Pertidaksamaan     </item>
+        <item>Pakar X Awam                 </item>
+        <item>Pancarona X Seragam          </item>
+        <item>Pandai X Bodoh               </item>
+        <item>Panjang lebar X Ringkas      </item>
+        <item>Pasca X Pra                  </item>
+        <item>Pejal X Berongga             </item>
+        <item>Pejuang X Pengkhianat        </item>
+        <item>Pembangun X Destruktif       </item>
+        <item>Pemberani X Penakut          </item>
+        <item>Penambahan X Eliminasi       </item>
+        <item>Penting X Remeh              </item>
+        <item>Percaya diri X Rendah diri   </item>
+        <item>Perintis X Pewaris           </item>
+        <item>Perkasa X Lemah              </item>
+        <item>Pertahanan X Serangan        </item>
+        <item>Planning X Tak terencana     </item>
+        <item>Plural X Tunggal             </item>
+        <item>Plus X Minus                 </item>
+        <item>Polemik X Rukun              </item>
+        <item>Poliandri X Monogami         </item>
+        <item>Positif X Negatif            </item>
+        <item>Positif X Ragu-ragu          </item>
+        <item>Preambul X Penutup           </item>
+        <item>Prefiks X Akhiran            </item>
+        <item>Pro X Kontra                 </item>
+        <item>Professional X Amatir        </item>
+        <item>Progresif X Regresif         </item>
+        <item>Prolog X Epilog              </item>
+        <item>Prominen X Biasa             </item>
+        <item>Proporsional X Norak         </item>
+        <item>Proposisi X Reaksi           </item>
+        <item>Raksasa X Kerdil             </item>
+        <item>Ramai X Sepi                 </item>
+        <item>Ramalan X Pasti              </item>
+        <item>Rasional X Irrasional        </item>
+        <item>Rasionalisme X Empirisme     </item>
+        <item>Regresif X Progresif         </item>
+        <item>Remeh X Penting              </item>
+        <item>Remisi X Penambahan hukuman   </item>
+        <item>Revolusi X Evolusi           </item>
+        <item>Ritel X Grosir               </item>
+        <item>Rivalitas X Persesuaian      </item>
+        <item>Rutin X Jarang               </item>
+        <item>Salaf X Mutakhir             </item>
+        <item>Sampling X Random            </item>
+        <item>Sederhana X Canggih          </item>
+        <item>Sekarang X Kemarin           </item>
+        <item>Sekuler X Keagamaan          </item>
+        <item>Sekulerisme X Spiritualisme  </item>
+        <item>Senang X Merana              </item>
+        <item>Senior X Junior              </item>
+        <item>Separasi X Penyatuan         </item>
+        <item>Sesuai X Berbeda             </item>
+        <item>Setem X Sumbang              </item>
+        <item>Siau X Mendidih              </item>
+        <item>Simpati X Antipati           </item>
+        <item>Sinergi X Dualistik          </item>
+        <item>Sinkron X Sumbang            </item>
+        <item>Sipil X Militer              </item>
+        <item>Skeptis X Yakin              </item>
+        <item>Soliter X Individual         </item>
+        <item>Sporadis X Jarang            </item>
+        <item>Stabil X Labil               </item>
+        <item>Statis X Dinamis             </item>
+        <item>Subur X Tandus               </item>
+        <item>Sumbang X Tepat              </item>
+        <item>Takzim X Lancang             </item>
+        <item>Tambun X Kurus               </item>
+        <item>Tawa X Tangis                </item>
+        <item>Terapung X Tenggelam         </item>
+        <item>Teratur X Kacau              </item>
+        <item>Terjamin X Tak tentu         </item>
+        <item>Terkatung X Terbenam         </item>
+        <item>Terputus X Kontinu           </item>
+        <item>Tetiron X Asli               </item>
+        <item>Tidak berdaya X Sinergi      </item>
+        <item>Tidak Peduli X Empati        </item>
+        <item>Tinggi X Rendah              </item>
+        <item>Transedensi X Imanesi        </item>
+        <item>Tunggal X Heterogen          </item>
+        <item>Universal X Parsial          </item>
+        <item>Vademikum X Kamus besar      </item>
+        <item>Valuable X Tidak berharga    </item>
+        <item>Vassal X Merdeka             </item>
+        <item>Vektor X Skalar              </item>
+        <item>Vertikal X Horisontal        </item>
+        <item>Virulen X Baik               </item>
+        <item>Vokal X Pendiam              </item>
+        <item>Wreda X Muda                 </item>
+    </string-array>
+    <string-array name="sinonim">
+        <item>Abrasi = Pengikisan</item>
+        <item>Absah = Sah</item>
+        <item>Absolut = Mutlak</item>
+        <item>Absurd = Janggal</item>
+        <item>Acum = Rujukan</item>
+        <item> Ad interim = Sementara</item>
+        <item> Adjektiva = Kata sifat</item>
+        <item>Afeksi = Kasih sayang</item>
+        <item>Agresi = Serangan</item>
+        <item>Agunan = Jaminan</item>
+        <item> Ahli = Pakar</item>
+        <item>Akselerasi = Percepatan</item>
+        <item>Akurat = Seksama</item>
+        <item>Almanak = Penanggalan</item>
+        <item>Ambiguitas = Bermakna ganda</item>
+        <item>Andal = Tangguh</item>
+        <item>Anemia = Kurang darah</item>
+        <item>Anggaran = Aturan</item>
+        <item>Anjung = Panggung</item>
+        <item>Antagonis = Berlawanan</item>
+        <item>Anulir = Abolisi</item>
+        <item>Aplikasi = Pelaksanaan</item>
+        <item>Arogan = Sombong</item>
+        <item>Artis = Seniman</item>
+        <item>Asa = Harapan</item>
+        <item>Asterik = Tanda bintang</item>
+        <item>Asumsi = Anggapan</item>
+        <item>Bahari = Laut</item>
+        <item>Bahtera = Perahu</item>
+        <item>Bala = Bencana</item>
+        <item>Bandela = Peti kemas</item>
+        <item>Barbar = Tidak beradab</item>
+        <item>Berdikari = Mandiri</item>
+        <item>Bergaul = Berteman</item>
+        <item>Berongsang = Marah-marah</item>
+        <item>Berpretensi = Prasangka</item>
+        <item>Bhineka = Berbeda-beda</item>
+        <item>Bicu = Dongkrak</item>
+        <item>Biologi = Hayati</item>
+        <item>Bisa = Dapat</item>
+        <item>Boga = Makanan kenikmatan</item>
+        <item>Bonafide = Dapat dipercaya</item>
+        <item>Bromocorah = Residivis</item>
+        <item>Bubut = Cabut</item>
+        <item>Bukti diri = Identitas</item>
+        <item>Bungalow = Pesanggrahan</item>
+        <item>Bura = Sembur</item>
+        <item>Burkak = Cadar</item>
+        <item>Centeng = Body guard</item>
+        <item>Citra = Gambaran</item>
+        <item>Copyright = Hak cipta</item>
+        <item>Dampak = Akibat</item>
+        <item>Darma = Pengabdian</item>
+        <item>Daur = Siklus</item>
+        <item>Deduksi = Konklusi</item>
+        <item>Defleksi = Penyimpangan</item>
+        <item>Dehidrasi = Kehilangan cairan tubuh</item>
+        <item>Dekade = Dasa warsa</item>
+        <item>Dekadensi = Kemerosotan moral</item>
+        <item>Delusi = Ilusi</item>
+        <item>Demagog = Tiran</item>
+        <item>Demisioner = Habis masa jabatan</item>
+        <item>Deportasi = Pembuangan ke luar negeri</item>
+        <item>Derivasi = Afiksasi</item>
+        <item>Deskripsi = Pelukisan</item>
+        <item>Diagnosis = Penaksiran</item>
+        <item>Dialog = Obrolan</item>
+        <item>Dikotomi = Dibagi dua</item>
+        <item>Dinamis = Bergerak maju</item>
+        <item>Disharmoni = Tidak selaras</item>
+        <item>Diskriminasi = Subordinat</item>
+        <item>Disorientasi = Salah tujuan</item>
+        <item>Disparitas = Perbedaan</item>
+        <item>Dispensasi = Pengecualian</item>
+        <item>Ditenggak = Ditelan bulat-bulat</item>
+        <item>Divestasi = Pelepasan</item>
+        <item>Dominasi = Penguasaan</item>
+        <item>Donasi = Bantuan</item>
+        <item>Dosis = Takaran</item>
+        <item>Dursila = Jahat</item>
+        <item>Ebi = Udang kering</item>
+        <item>Ebonit = Kayu hitam</item>
+        <item>Ekonomis = Hemat                       </item>
+        <item>Eksibisi = Perunjukan                  </item>
+        <item>Ekskavasi = Penggalian                 </item>
+        <item>Eksklusif = Tertentu                   </item>
+        <item>Ekspansi = Perluasan                   </item>
+        <item>Eksploitasi = Pendayagunaan            </item>
+        <item>Ekspresi = Aktualisasi diri            </item>
+        <item>Ekstensi = Perluasan                   </item>
+        <item>Ekuilibrium = Keseimbangan             </item>
+        <item>Elaborasi = Penjelasan terperinci      </item>
+        <item>Embargo = Larangan                     </item>
+        <item>Embarkasi = Keberangkatan              </item>
+        <item>Empati = Ikut merasakan                </item>
+        <item>Empiris = Realitas                     </item>
+        <item>Endemi = Wabah                         </item>
+        <item>Epilog = Penutup                       </item>
+        <item>Ereksi = Birahi                        </item>
+        <item>Estetika = Keindahan                   </item>
+        <item>Estimasi = Perkiraan                   </item>
+        <item>Etos = Pandangan hidup                 </item>
+        <item>Evakuasi = Pengungsian                 </item>
+        <item>Evaluasi = Penilaian                   </item>
+        <item>Evokasi = Penggugah rasa               </item>
+        <item>Fauna = Hewan                          </item>
+        <item>Fenomena = Kenyataan                   </item>
+        <item>Fertile = Subur                        </item>
+        <item>File = Arsip                           </item>
+        <item>Fitnah = Rekaan                        </item>
+        <item>Flegmatis = Bertemperamen lamban       </item>
+        <item>Flora = Tanaman                        </item>
+        <item>Forum = Lembaga                        </item>
+        <item>Frekuwensi = Sinyal                    </item>
+        <item>Friksi = Bentrokan                     </item>
+        <item>Frustasi = Putus Harapan               </item>
+        <item>Fundamental = Mendasar                 </item>
+        <item>Fungi = Jamur                          </item>
+        <item>Fusi = Gabugan                         </item>
+        <item>Futuristis = Menuju masa depan         </item>
+        <item>Galat = Keliru                         </item>
+        <item>Gemar = Getol                          </item>
+        <item>Generik = Umum                         </item>
+        <item>Genjah = Cepat berbuah                 </item>
+        <item>Genre = Aliran                         </item>
+        <item>Geothermal = Panas bumi                </item>
+        <item>Getir = Pahit                          </item>
+        <item>Global = Dunia                         </item>
+        <item>Glosarium = Kamus ringkas              </item>
+        <item>Gongseng = Sangrai                     </item>
+        <item>Grasi = Pengampunan hukuman            </item>
+        <item>dari presiden                          </item>
+        <item>Green belt = Jalur hijau               </item>
+        <item>Harmonis = Serasi                      </item>
+        <item>Harta benda = Mal                      </item>
+        <item>Hayati = Hidup                         </item>
+        <item>Hedonisme = Hura-hura                  </item>
+        <item>Hegemoni = Intervensi                  </item>
+        <item>Hepotenusa = Sisi miring               </item>
+        <item>Herbi = Berhubungan dengan tumbuh-tumbuhan                        </item>
+        <item>Heroisme = Jiwa kepahlawanan           </item>
+        <item>Heterogen = Tidak sejenis              </item>
+        <item>Higienis = Bersih                      </item>
+        <item>Hiperbola = Berlebihan                 </item>
+        <item>Holistik = Keseluruhan                 </item>
+        <item>Homogen = Sejenis                      </item>
+        <item>Huma = Lahan                           </item>
+        <item>Humanisme = Kemanusiaan                </item>
+        <item>Identitas = Bukti diri                 </item>
+        <item>Imbas = Efek                           </item>
+        <item>Imbasan = Isapan                       </item>
+        <item>Implikasi = Akibat                     </item>
+        <item>Implisit = Tersirat                    </item>
+        <item>Impulsif = Spontan                     </item>
+        <item>Indolen = Lesu                         </item>
+        <item>Infiltrasi = Penyusupan                </item>
+        <item>Inheren = Melekat                      </item>
+        <item>Injeksi = Suntik                       </item>
+        <item>Inovasi = Penemuan                     </item>
+        <item>Insentif = Bonus                       </item>
+        <item>Insinuasi = Sindiran                   </item>
+        <item>Insomnia = Tidak bisa tidur            </item>
+        <item>Inspeksi = Pemeriksaan                 </item>
+        <item>Insting = Naluri                       </item>
+        <item>Instruktur = Pelatih                   </item>
+        <item>Instrumental = Fragmental              </item>
+        <item>Interaksi = Hubungan                   </item>
+        <item>Interpelasi = Hak bertanya             </item>
+        <item>Intuisi = Bisikan Hati                 </item>
+        <item>Invasi = Pencaplokan                   </item>
+        <item>Investigasi = Pemeriksaan              </item>
+        <item>Ironi = Bertentangan dengan harapan                                </item>
+        <item>Iterasi = Perulangan                   </item>
+        <item>Jajak = Telaah                         </item>
+        <item>Jargon = Slogan                        </item>
+        <item>Jeda = Jarak                           </item>
+        <item>Jemawa = Angkuh                        </item>
+        <item>Jumantara = Awang-awang                </item>
+        <item>Kaldera = Kawah                        </item>
+        <item>Kampiun = Juara                        </item>
+        <item>Kapital = Modal                        </item>
+        <item>Kapling = Tanah yang sudah dipetak-petak                          </item>
+        <item>Karakteristik = Ciri                   </item>
+        <item>Karat = Zat oksidasi                   </item>
+        <item>Karnivora = Hewan pemakan daging       </item>
+        <item>Kawat = Dawai                          </item>
+        <item>Kecenderungan = Kesamaan               </item>
+        <item>Kedap = Rapat                          </item>
+        <item>Kekeh = Gelak tawa                     </item>
+        <item>Kelenger = Pingsan                     </item>
+        <item>Keletah = Genit                        </item>
+        <item>Kendala = Hambatan                     </item>
+        <item>Khayalan = Imajinasi                   </item>
+        <item>Kisi-kisi = Terali                     </item>
+        <item>Klarifikasi = Penjelasan               </item>
+        <item>Klimaks = Titik puncak                 </item>
+        <item>Kolaborasi = Kerja sama                </item>
+        <item>Kolong = Rongga di bawah rumah         </item>
+        <item>Komedi = Lawak                         </item>
+        <item>Kompatriot = Rekan senegara            </item>
+        <item>Kompendium = Ringkasan                 </item>
+        <item>Komplotan = Persekutuan                </item>
+        <item>Konduite = Perilaku                    </item>
+        <item>Kondusif = Aman                        </item>
+        <item>Konfiden = Yakin                       </item>
+        <item>Konfrontasi = Pertikaian               </item>
+        <item>Konkaf = Cekung                        </item>
+        <item>Konklusi = Kesimpulan                  </item>
+        <item>Konkret = Nyata                        </item>
+        <item>Konkurensi = Sengketa                  </item>
+        <item>Konsensus = Mufakat                    </item>
+        <item>Konservasi = Perlindungan              </item>
+        <item>Konspirasi = Persekongkolan            </item>
+        <item>Konstan = Kontinu                      </item>
+        <item>Kontemporer = Pada masa ini            </item>
+        <item>Kontiniu = Bersambung                  </item>
+        <item>Kontradiksi = Pertentangan             </item>
+        <item>Konveks = Cembung                      </item>
+        <item>Konvoi = Pergerakan                    </item>
+        <item>Korelasi = Hubungan                    </item>
+        <item>Koreografi = Ilmu tari                 </item>
+        <item>Kreasi = Ciptaan                       </item>
+        <item>Kredibel = Andal                       </item>
+        <item>Kredibilitas = Dapat dipercaya         </item>
+        <item>Krusial = Penting                      </item>
+        <item>Kudeta = Perebutan kekuasaan           </item>
+        <item>Kudus = Suci                           </item>
+        <item>Kuliner = Masakan                      </item>
+        <item>Kulminasi = Klimaks                    </item>
+        <item>Kuno = Antik                           </item>
+        <item>Laba = Keuntungan                      </item>
+        <item>Landskap = Pertamanan                  </item>
+        <item>Latif = Indah                          </item>
+        <item>Legal = Sah                            </item>
+        <item>Liga = Perserikatan                    </item>
+        <item>Loka = Tempat                          </item>
+        <item>Majemuk = Beragam                      </item>
+        <item>Makar = Muslihat                       </item>
+        <item>Makelar = Pialang                      </item>
+        <item>Mal = Harta benda                      </item>
+        <item>Mala = Bencana                         </item>
+        <item>Manunggal = Bersatu                    </item>
+        <item>Mayapada = Dunia                       </item>
+        <item>Mediator = Perantara                   </item>
+        <item>Mekar = Mengembang                     </item>
+        <item>Mengecoh = Mengakali                   </item>
+        <item>Militan = Agresif                      </item>
+        <item>Misteri = Rahasia                      </item>
+        <item>Mistifikasi = Sakralisasi              </item>
+        <item>Mistik = Gaib                          </item>
+        <item>Mitra = Kawan                          </item>
+        <item>Mixer = Aduk-aduk                      </item>
+        <item>Mobilitas = Gerak                      </item>
+        <item>Model = Contoh                         </item>
+        <item>Monoton = Terus-menerus                </item>
+        <item>Motilitas = Gerak                      </item>
+        <item>Mudun = Beradab                        </item>
+        <item>Mutakhir = Terkini                     </item>
+        <item>Mutakhir = Terkini                     </item>
+        <item>Mutilasi = Pemotongan                  </item>
+        <item>Nabati = Botani                        </item>
+        <item>Naratif = Terinci                      </item>
+        <item>Nir = Tidak                            </item>
+        <item>Nisbi = Relatif                        </item>
+        <item>Niscaya = Pasti                        </item>
+        <item>Norma = kebiasaan                      </item>
+        <item>Nuansa = Perbedaan makna               </item>
+        <item>Omnivora = Hewan pemakan daging        </item>
+        <item>dan tumbuh-tumbuhan                    </item>
+        <item>Opas = Pesuruh                         </item>
+        <item>Oral = Berkaitan dengan mulut          </item>
+        <item>Orisinil = Asli                        </item>
+        <item>Ortodok = Konservatif                  </item>
+        <item>Otodidak = Belajar sendiri             </item>
+        <item>Oval = Bulat telur                     </item>
+        <item>Pangkas = Potong                       </item>
+        <item>Paparan = Gambaran                     </item>
+        <item>Paradigma = Kerangka berpikir          </item>
+        <item>Paradoks = Lawan asas                  </item>
+        <item>Paradoksal = Kontras                   </item>
+        <item>Paras = Wajah                          </item>
+        <item>Paripurna = Sempurna                   </item>
+        <item>Partikelir = Swasta                    </item>
+        <item>Paseban = Penghadapan                  </item>
+        <item>Pedagogi = Pengajaran                  </item>
+        <item>Pedoman = Panduan                      </item>
+        <item>Pembatasan = Restriksi                 </item>
+        <item>Pemugaran = Perbaikan                  </item>
+        <item>Pencerahan = Kesadaran                 </item>
+        <item>Perdeo = Gratis                        </item>
+        <item>Perforasi = Perlubangan                </item>
+        <item>Perlop = Cuti                          </item>
+        <item>Pingsan = Kelenger                     </item>
+        <item>Pioner = Perintis                      </item>
+        <item>Plagiator = Penjiplak                  </item>
+        <item>Planning = Rencana                     </item>
+        <item>Poly = Banyak                          </item>
+        <item>Preman = Partikelir                    </item>
+        <item>Premi = Iuran pertanggungan asuransi                               </item>
+        <item>Preposisi = Kata depan                 </item>
+        <item>Prestise = Martabat                    </item>
+        <item>Pretensi = Pura-pura                   </item>
+        <item>Primer = Utama                         </item>
+        <item>Prominen = Kondang                     </item>
+        <item>Promotor = Penganjur                   </item>
+        <item>Prosedur = Mekanisme                   </item>
+        <item>Proteksi = Perlindungan                </item>
+        <item>Protesis = Buatan                      </item>
+        <item>Rabat = Potongan harga                 </item>
+        <item>Rahib = Pendeta                        </item>
+        <item>Ralat = Pembetulan                     </item>
+        <item>Rambang = Acak                         </item>
+        <item>Rancu = Kacau                          </item>
+        <item>Random = Secara acak                   </item>
+        <item>Rapel = Pembayaran sekaligus           </item>
+        <item>Rapuh = Ringkih                        </item>
+        <item>Ratifikasi = Pengesahan                </item>
+        <item>Referensi = Surat keterangan           </item>
+        <item>Relasi = Rekanan                       </item>
+        <item>Rendezvous = Pertemuan                 </item>
+        <item>Residu = Sisa                          </item>
+        <item>Restriksi = Pembatasan                 </item>
+        <item>Ringkih = Rapuh                        </item>
+        <item>Risi = Khawatir                        </item>
+        <item>Romansa = Kisah cinta                  </item>
+        <item>Rona = Warna                           </item>
+        <item>Sahih = Benar                          </item>
+        <item>Sandang = Pakaian                      </item>
+        <item>Sanksi = Hukuman                       </item>
+        <item>Sapta = Bilangan                       </item>
+        <item>Sasana = Gelanggang                    </item>
+        <item>Selebaran = Risalah                    </item>
+        <item>Semboyan = Slogan                      </item>
+        <item>Serebrum = Otak besar                  </item>
+        <item>Seremoni = Perayaan                    </item>
+        <item>Serikat = Perkumpulan                  </item>
+        <item>Sine qua non = Harus ada               </item>
+        <item>Sinkron = Sesuai                       </item>
+        <item>Sintesis = Buatan                      </item>
+        <item>Somasi = Gugatan                       </item>
+        <item>Sosialisasi = Pengenalan               </item>
+        <item>Spesifik = Khusus                      </item>
+        <item>Sporadis = Jarang                      </item>
+        <item>Stagnasi = Kemacetan                   </item>
+        <item>Standar = Baku                         </item>
+        <item>Statis = Tidak aktif                   </item>
+        <item>Stigma = Cacat                         </item>
+        <item>Strata = Tingkatan                     </item>
+        <item>66 Kompilasi Soal-soal Aseli CPNS      </item>
+        <item>Strategi = Taktik                      </item>
+        <item>Sumbang = Tidak sinkron                </item>
+        <item>Supervisi = Pengawasan                 </item>
+        <item>Sutradara = Pengarah adegan            </item>
+        <item>Swatantra = Otonomi                    </item>
+        <item>Syahdan = Konon                        </item>
+        <item>Ta’aruf = Perkenalan                   </item>
+        <item>Tabiat = Watak                         </item>
+        <item>Talenta = Bakat                        </item>
+        <item>Tandang = Lawatan                      </item>
+        <item>Tanggal = Lepas                        </item>
+        <item>Tangkal = Cegah                        </item>
+        <item>Tanur = Perapian                       </item>
+        <item>Taraf = Tingkat                        </item>
+        <item>Target = Sasaran                       </item>
+        <item>Telatah = Gerak-gerik                  </item>
+        <item>Tendensi = Kecenderungan               </item>
+        <item>Tentatif = Belum pasti                 </item>
+        <item>Termin = Tahap                         </item>
+        <item>Timpang = Tak seimbang                 </item>
+        <item>Tiran = Diktator                       </item>
+        <item>Trail = Kisi-kisi                      </item>
+        <item>Transedental = Kesinambungan           </item>
+        <item>Trobadur = Penyanyi lagu cinta         </item>
+        <item>Vandalisme = Destruksi                 </item>
+        <item>Ventilasi = Jendela                    </item>
+        <item>Verifikasi = Pembuktian                </item>
+        <item>Versus = Lawan                         </item>
+        <item>Wahana = Sarana                        </item>
+        <item>Warta = Berita                         </item>
+    </string-array>
+    <string-array name="awalanber">
+        <item>Awalan ber yang melekat pada kata dasar mempunyai makna/arti sebagai berikut :</item>
+        <item>1. Awalan ber- berati mempunyai. Contoh: Kakak ku yang pertama bernama Desma. Bernama = mempunyai nama</item>
+        <item>2. Memakai/menggunakan/mengendarai. Contoh: Setiap ke kantor Ayah selalu berdasi. Berdasi = memakai/menggunakan dasi</item>
+        <item>3. Mengeluarkan/menghasilkan. Contoh: Ayam – ayam peliharaan Nani sudah mulai bertelur. Bertelur = mengeluarkan/menghasilkan telur</item>
+        <item>4. Berada dalam keadaan. Contoh: Amanda sedang berbahagia karena hari ini berulang tahun. Berbahagia = keadaan bahagia.</item>
+        <item>5. Memanggil. Contoh: Diana berbibi kepada Ibu Sundari. Berbibi = memanggil bibi</item>
+        <item>6. Melakukan. Contoh: Anggota siskamling berjaga di setiap pos. Berjaga = melakukan jaga.</item>
+        <item>7. Dalam jumlah. Contoh: Mereka bertiga pergi tanpa memberitahu Pak Deden. Bertiga =  dalam jumlah  tiga</item>
+    </string-array>
+    <string-array name="awalandi">
+        <item>Awalan di yang melekat pada kata dasar mempunyai makna/arti sebagai berikut :</item>
+        <item>1. Dikenai tindakan. Contoh: Sayur itu dipotong. Dipotong = dikenai tindakan pemotongan</item>
+        <item>2. Dibuat atau dijadikan. Contoh: Kelinci itu disatai. Disatai = kelinci dijadikan sate</item>
+        <item>3. Diberi atau dilengkapi. Contoh: Tembok sekolah dicat dengan warna hijau. Dicat = diberi cat</item>
+
+    </string-array>
+    <string-array name="awalanke">
+        <item>Awalan ke yang melekat pada kata dasar mempunyai makna/arti sebagai berikut :</item>
+        <item>1. Awalan ke- menyatakan urutan. Contoh: Bagian kelima. Kelima = urtan yang kelima</item>
+        <item>2. Menyatakan kumpulan. Contoh: Keduanya. Keduanya = kumpulan dua (nya)</item>
+
+    </string-array>
+    <string-array name="awalanme">
+        <item>Awalan me-  yang melekat pada kata dasar memiliki makna/ arti sebagai berikut :</item>
+        <item>1. Melakukan perbuatan. Contoh: Sekar sedang menyanyi di atas panggung. Menyanyi = melakukan perbuatan nyayi</item>
+        <item>2. Melakukan perbuatan dengan alat. Contoh: Ayah memotong kayu dengan gergaji. Memotong = melakukan potong dengan alat.</item>
+        <item>3. Menjadi/dalam keadaan. Contoh: Jalanan ini mulai menurun, berpeganglah! Menurun = dalam keadaan turun.</item>
+        <item>4. Membuat kesan/seolah-olah. Contoh: Atik mengalah demi kebahagiakan adiknya. Mengalah = seolah-olah kalah. </item>
+        <item>5. Menuju ke. Contoh: Perahu itu menepi untuk menurunkan hasil tangkapan. Menepi = menuju ke tepi.</item>
+        <item>6. Mencari/mengumpulkan.  Contoh: Pak Amu mendamar di dalam hutan. Mendamar = mengumpulkan dama</item>
+    </string-array>
+    <string-array name="awalanpe">
+        <item>Awalan pe-  yang melekat pada kata dasar memiliki makna/ arti sebagai berikut :</item>
+        <item>1. Menyatakan pekerjaan. Contoh: Pamannya adalah pedagang di pasar Kota Jayapura. Pedagang = pekerjaan dagang.</item>
+        <item>2. Alat yang digunakan untuk melakukan tindakan. Contoh: Adik meruncingkan pensil dengan peraut. Peraut = alat yang digunakan untuk meraut</item>
+        <item>3. Menyatakan mempunyai sifat. Contoh: Jangan jadi penakut! Penakut = mempunyai sifat takut.</item>
+        <item>4. Menyatakan penyebab. Contoh: Ibu membeli pemutih untuk mencuci baju adik! Pemutih = penyebab putih</item>
+    </string-array>
+    <string-array name="awalanper">
+        <item>Arti awalan per- antara lain sebagai berikut:</item>
+        <item>1. Membuat jadi lebih. Contoh: Persempit jalan masuknya air di sawah kalian! Persempit = membuat jadi sempit.</item>
+        <item>2. Membagi jadi. Contoh: Satu perempat gajinya disumbangkan untuk fakir miskin. Perempat = membuat jadi empat</item>
+        <item>3. Membuat jadi. Contoh: Jangan perbudak orang-orang! Perbudak = membuat jadi budak</item>
+    </string-array>
+    <string-array name="awalanse">
+        <item> Awalan se-  yang melekat pada kata dasar memiliki makna/ arti sebagai berikut :</item>
+        <item>1. Menyatakan satu. Contoh: Kami  itu berteduh di sebuah pondok bambu yang lusuh. Sebuah = satu buah.</item>
+        <item>2. Menyatakan paling. Contoh: Pedagang itu mengambil untung sebanyak-banyaknya. Sebanyak-banyaknya = paling banyak. </item>
+        <item>3. Menyatakan sama dengan. Contoh: Perjalanan ke Bali tidak sejauh perjalanan ke Kalimantan. Sejauh = sama jauh.</item>
+        <item>4. Menyatakan seluruhnya dalam satu. Contoh: Warga sekampung mengungsi sejak ada berita akan terjadinya banjir. Sekampung = seluruhnya dalam satu kampung.</item>
+    </string-array>
+    <string-array name="awalanter">
+        <item>  Awalan ter- yang melekat pada kata dasar memiliki makna/ arti sebagai berikut :</item>
+        <item>1. Tidak sengaja di....Contoh: Kakinya berdarah karen tertusuk jarum. Tertusuk =  tidak sengaja ditusuk</item>
+        <item>2. Dapat di... Contoh: “Apakah tulisan ini terbaca oleh kalian?” tanya Pak Guru. Terbaca = dapat dibaca</item>
+        <item>3. Paling. Contoh: Lilik adalah pelari tercepat di nomor lari 100 meter. Tercepat = paling cepat</item>
+
+    </string-array>
+
+    <string-array name="majasperb">
+        <item>Majas Perbandingan ialah kata-kata berkias yang menyatakan perbandingan untuk meningkatkan kesan dan juga pengaruhnya terhadap pendengar ataupun pembaca. Ditinjau atau dilihat dari cara pengambilan perbandingannya, Majas Perbandingan terbagi atas : </item>
+        <item>1) Asosiasi atau Perumpamaan. Majas asosiasi atau perumpamaan adalah perbandingan terhadap dua hal yang pada hakikatnya berbeda, tetapi sengaja dianggap sama. Majas ini ditandai oleh penggunaan kata bagai, bagaikan, seumpama, seperti, dan laksana. Berikut ini Espilen Blog sampaikan contoh majas asosiasi : </item>
+        <item>Contoh : Semangatnya keras bagaikan baja, Mukanya pucat bagai mayat, Wajahnya kuning bersinar bagaikan bulan purnama. </item>
+        <item>2) Metafora. Metafora adalah majas yang memberikan ungkapan secara langsung berupa perbandingan analogis. Pemakaian kata atau kelompok kata bukan dengan arti yang sebenarnya, melainkan sebagai lukisan yang berdasarkan persamaan atau perbandingan, misalnya tulang punggung dalam kalimat pemuda adalah tulang punggung negara. Contoh majas metafora seperti berikut ini.</item>
+        <item>Contoh: Engkau belahan jantung hatiku sayangku, Raja siang keluar dari ufuk timur, Jonathan adalah bintang kelas dunia. </item>
+        <item>3) Personifikasi. Personifikasi adalah majas yang membandingkan benda-benda tak bernyawa seolah-olah mempunyai sifat seperti manusia.</item>
+        <item>Contoh: Badai mengamuk dan merobohkan rumah penduduk, Ombak berkejar-kejaran ke tepi pantai, Peluit wasit menjerit panjang menandai akhir dari pertandingan tersebut. </item>
+        <item>4) Alegori. Alegori adalah Menyatakan dengan cara lain, melalui kiasan atau penggambaran. Alegori: majas perbandingan yang bertautan satu dan yang lainnya dalam kesatuan yang utuh.</item>
+        <item>Contoh: Suami sebagai nahkoda, Istri sebagai juru mudi, Perjalanan hidup manusia seperti sungai yang mengalir menyusuri tebing-tebing, yang kadang-kadang sulit ditebak kedalamannya, yang rela menerima segala sampah, dan yang pada akhirnya berhenti ketika bertemu dengan laut.</item>
+        <item>5) Simbolik. Simbolik adalah majas yang melukiskan sesuatu dengan mempergunakan benda, binatang, atau tumbuhan sebagai simbol atau lambang.</item>
+        <item>Contoh: Ia terkenal sebagai buaya darat, Rumah itu hangus dilalap si jago merah, Ia adalah seorang bunga desa</item>
+        <item>6) Metonimia. Metonimia adalah majas yang menggunakan ciri atau lebel dari sebuah benda untuk menggantikan benda tersebut.Pengungkapan tersebut berupa penggunaan nama untuk benda lain yang menjadi merek, ciri khas, atau atribut.</item>
+        <item>Contoh: Di kantongnya selalu terselib gudang garam. (maksudnya rokok gudang garam), Setiap pagi Ayah selalu menghirup kapal api. (maksudnya kopi kapal api), Ayah pulang dari luar negeri naik garuda (maksudnya pesawat)</item>
+        <item>7) Sinekdok. Sinekdok adalah majas yang menyebutkan bagian untuk menggantikan benda secara keseluruhan atau sebaliknya. Majas sinekdokhe terdiri atas dua bentuk berikut.</item>
+        <item>a) Pars pro toto, yaitu menyebutkan sebagian untuk keseluruhan. Contoh: (a) Hingga detik ini ia belum kelihatan batang hidungnya, (b) Per kepala mendapat Rp. 300.000.</item>
+        <item>b) Totem pro parte, yaitu menyebutkan keseluruhan untuk sebagian. Contoh: (a) Dalam pertandingan final bulu tangkis Rt.03 melawan Rt. 07, (b) Indonesia akan memilih idolanya malam nanti. </item>
+        <item>8. Simile: Pengungkapan dengan perbandingan eksplisit yang dinyatakan dengan kata depan dan penghubung, seperti layaknya, bagaikan, " umpama", "ibarat","bak", bagai".</item>
+        <item>Contoh: Kau umpama air aku bagai minyaknya, bagaikan Qais dan Laila yang dimabuk cinta berkorban apa saja. </item>
+    </string-array>
+
+    <string-array name="majaspert">
+        <item>B. Majas Pertentangan. Majas Pertentangan adalah “Kata-kata berkias yang menyatakan pertentangan dengan yang dimaksudkan sebenarnya oleh pembicara atau penulis dengan maksud untuk memperhebat atau meningkatkan kesan dan pengaruhnya kepada pembaca atau pendengar”. Macam-macam Majas Pertentangan dibedakan menjadi berikut.</item>
+        <item>1) Antitesis. Antitesis adalah majas yang mempergunakan pasangan kata yang berlawanan artinya.</item>
+        <item>Contoh: a) Tua muda, besar kecil, ikut meramaikan festival itu, b) Miskin kaya, cantik buruk sama saja di mata Tuhan. </item>
+        <item>2) Paradoks. Paradoks adalah majas yang mengandung pertentangan antara pernyataan dan fakta yang ada.</item>
+        <item> Contoh: a) Aku merasa sendirian di tengah kota Jakarta yang ramai ini, b) Hatiku merintih di tengah hingar bingar pesta yang sedang berlangsung ini. </item>
+        <item>3) Hiperbola. Majas hiperbola adalah majas yang berupa pernyataan berlebihan dari kenyataannya dengan maksud memberikan kesan mendalam atau meminta perhatian.</item>
+        <item> Contoh: a) Suaranya menggelegar membelah angkasa, b) Tubuhnya tinggal kulit pembalut tulang.</item>
+        <item>4) Litotes. Litotes adalah majas yang menyatakan sesuatu dengan cara yang berlawanan dari kenyataannya dengan mengecilkan atau menguranginya. Tujuannya untuk merendahkan diri.</item>
+        <item>Contoh: a) Makanlah seadanya hanya dengan nasi dan air putih saja, b) Mengapa kamu bertanya pada orang yang bodoh seperti saya ini?</item>
+    </string-array>
+
+    <string-array name="majassin">
+        <item>C. Majas Sindiran. Majas Perbandingan ialah kata-kata berkias yang menyatakan sindiran untuk meningkatkan kesan dan pengaruhnya terhadap pendengar atau pembaca”. Majas sindirian dibagi menjadi:</item>
+        <item>1) Ironi. Ironi adalah majas yang menyatakan hal yang bertentangan dengan maksud untuk menyindir seseorang.</item>
+        <item>Contoh: a) Ini baru namana siswa teladan, setiap hari selalu pulang malam. b) Bagus sekali tulisanmu, saking bagusnya sampai tidak dapat Aku baca.</item>
+        <item>2) Sinisme. Sinisme adalah majas yang menyatakan sindiran secara langsung kepada orang lain</item>
+        <item> Contoh : a) Perkataanmu tadi sangat menyebalkan, tidak pantas diucapkan oleh orang terpelajar seperti dirimu. b) Lama-lama aku bisa jadi gila melihat tingkah lakumu yang tidak wajar itu.</item>
+        <item>3) Sarkasme. Sarkasme adalah majas sindiran yang paling kasar. Majas ini biasanya diucapkan oleh orang yang sedang marah.</item>
+        <item>Contoh: a) Mau muntah aku melihat wajahmu, pergi kamu! b) Dasar kerbau dungu, kerja begini saja tidak becus!</item>
+    </string-array>
+
+    <string-array name="majaspen">
+        <item>D. Majas Penegasan. Majas Perbandingan ialah kata-kata berkias yang menyatakan penegasan untuk meningkatkan kesan dan pengaruhnya terhadap pendengar atau pembaca”.Majas penegasan terdiri atas tujuh bentuk berikut.</item>
+        <item>1) Pleonasme
+    Pleonasme adalah majas yang menggunakan kata-kata secara berlebihan dengan maksud menegaskan arti suatu kata.</item>
+        <item>Contoh:
+    a) Semua siswa yang di atas agar segera turun ke bawah.
+    b) Mereka mendongak ke atas menyaksikan pertunjukan pesawat tempur.</item>
+        <item>2) Repetisi
+    Repetisi adalah majas perulangan kata-kata sebagai penegasan.</item>
+        <item>Contoh:
+    a) Dialah yang kutunggu, dialah yang kunanti, dialah yang kuharap.
+    b) Marilah kita sambut pahlawan kita, marilah kita sambut idola kita, marilah kita sambut putra bangsa.</item>
+        <item>3) Paralelisme
+    Paralelisme adalah majas perulangan yang biasanya ada di dalam puisi.</item>
+        <item>Contoh:
+    Cinta adalah pengertian
+    Cinta adalah kesetiaan
+    Cinta adalah rela berkorban</item>
+        <item>4) Tautologi
+    Tautologi adalah majas penegasan dengan mengulang beberapa kali sebuah kata dalam sebuah kalimat dengan maksud menegaskan. Kadang pengulangan itu menggunakan kata bersinonim.</item>
+        <item>Contoh:
+    a) Bukan, bukan, bukan itu maksudku. Aku hanya ingin bertukar pikiran saja.
+    b) Seharusnya sebagai sahabat kita hidup rukun, akur, dan bersaudara.</item>
+        <item>5) Klimaks
+    Klimaks adalah majas yang menyatakan beberapa hal secara berturut-turut dan makin lama makin meningkat.</item>
+        <item>Contoh:
+    a) Semua pihak mulai dari anak-anak, remaja, sampai orang tua pun mengikuti lomba Agustusan.
+    b) Ketua RT, RW, Kepala Desa, Gubernur, bahkan Presiden sekalipun tidak mempunyai berhak untuk mengurusi hal pribadi seseorang.</item>
+        <item>6) Antiklimaks
+    Antiklimaks adalah majas yang menyatakan beberapa hal secara berturut-turut yang makin lama semakin menurun.
+    a) Kepala sekolah, guru, staff sekolah, dan siswa juga hadir dalam pesta perayaan kelulusan itu.
+    b) Di kota dan desa hingga pelosok kampung semua orang merayakan HUT RI ke -62.</item>
+        <item>7) Retorik
+    Retorik adalah majas yang berupa kalimat tanya namun tak memerlukan jawaban. Tujuannya memberikan penegasan, sindiran, atau menggugah.</item>
+        <item>Contoh:
+    a) Kata siapa cita-cita bisa didapat cukup dengan sekolah formal saja?
+    b) Apakah ini orang yang selama ini kamu bangga-banggakan ?</item>
+
+    </string-array>
+
+    <string-array name="peribahasa">
+        <item>air beriak tanda tak dalam > orang yang banyak bicara biasanya kurang ilmunya.</item>
+        <item>air tenang menghanyutkan > orang yang pendiam biasanya banyak ilmunya.</item>
+        <item>asam di darat, garam di laut, bertemu di belanga > kalau sudah jodoh, walaupun jauh bertempat tinggal pasti bertemu juga.</item>
+        <item>ayam bertelur di padi mati kelaparan > orang yang selalu kekurangan, meskipun penghasilannya banyak.</item>
+        <item>air cucuran atap, jatuhnya ke pelimbahan juga > sifat orang tua pasti menurun pada anaknya.</item>
+        <item>air susu dibalas air tuba > kebaikan dibalas kejahatan.</item>
+        <item>ada gula ada semut > dimana ada kesenangan di situlah banyak orang datang.</item>
+        <item>bagai air di atas daun talas > orang yang tidak punya pendirian yang tetap.</item>
+        <item>bagaikan api dengan asap > persahabatan yang abadi</item>
+        <item>bagai anak ayam kehilangan induk > bercerai berai karena kehilangan tumpuan.</item>
+        <item>biarakan anjing menggonggong, kafilah tetap berlalu > biarpun banyak rintangan dalam usaha kita, kita tidak boleh putus asa.</item>
+        <item>bagai kebakaran jenggot > bingung tak karuan.</item>
+        <item>bagai makan buah simalakama, dimakan bapak mati, tidak dimakan ibu mati > melakukn dua pekerjaan yang sama-sama berbahaya.</item>
+        <item>bak pinang dibelah dua > sama benar / serupa benar</item>
+        <item>berguru kepalang ajar, bagai bunga kembang tak jadi > orang belajar haruslah bersungguh-sungguh tidak boleh setengah-setengah.</item>
+        <item>berani karena benar, takut karena salah > orang yang bersalah senantiasa dalam ketakutan.</item>
+        <item>berat sama dipikul, ringan sama dijinjing > sama-sama menderita dan sama-sama bahagia.</item>
+        <item>buruk rupa cermin dibelah > menyalahkan orang lain meskipun dia sendiri yang bersalah.</item>
+        <item>buah yang jatuh tidak jauh dari pohonnya > sifat seorang anak tidak jauh beda dari orang tuanya.</item>
+        <item>bagai mendapat durian runtuh > mendapat keuntungan yang tidak disangka-sangka.</item>
+        <item>bumi tak selebar daun kelor > bumi tak sempit.</item>
+        <item>cupak sepanjang betung, adat sepanjang jalan > hendaklah kita melakukan sesuatu menurut adat dan kebiasaan yang berlaku.</item>
+        <item>cepat kaki , ringan tangan > cekatan dan lekas mengerjakan sesuatu.</item>
+        <item>di luar bagai madu, di dalam bagai empedu > mulutnya manis tetapi hatinya jahat.</item>
+        <item>dalam laut dapat diduga, dalam hati siapa tahu > pikiran orang tidak dapat diketahui.</item>
+        <item>dimana bumi berpijak, disitu langit dijunjung > dimana kita tinggal, hendaklah menurut adat istiadat di negeri itu.</item>
+        <item>diam seribu bahasa > diam sama sekali.</item>
+        <item>duduk sama rendah, berdiri sama tinggi > sejajar kedudukannya ( martabat / tingkatannya )</item>
+        <item>esa hilang dua terbilang > berusaha harus dengan keras hati sampai maksud tercapai.</item>
+        <item>gajah dipandang karena gadingnya, harimau dipandang karena belangnya > manusia dipandang dengan segala yang ada pada dirinya.</item>
+        <item>gajah berjuang sama gajah, pelanduk mati di tengah-tengah > jika terjadi pertengkaran antar orang besar, maka rakyat yang akan menderita.</item>
+        <item>gali lubang tutup lubang > membuat hutang baru untuk menutup hutang lama.</item>
+        <item>guru makan berdiri, murid kencing berlari > dalam segala hal murid akan selalu mencontoh gurunya, jika guru berbuat yang tidak patut maka murid akan berbuat yang jauh lebih buruk.</item>
+        <item>hanya sampai dibibir saja > apa yang dikatakan tidak keluar dari isi hatinya.</item>
+        <item>hemat pangkal kaya, rajin pangkal pandai > kalau kita ingin kaya hendaklah menabung (berhemat), kalau kita ingin pandai hendaklah rajin belajar.</item>
+        <item>harimau mati meninggalkan belang, gajah mati meninggalkan gading, orang mati meninggalkan nama > orang baik akan selalu meninggalkan nama baik, sedamngkan orang jahat akan meninggalkan nama buruk.</item>
+        <item>habis manis sepah dibuang > setelah tidak berguna lagi lalu dibuang tanpa dipedulikan lagi.</item>
+        <item>hujan emas di negeri orang, hujan batu di negeri sendiri > sebaik-baik negeri orang tidak sebaik negeri sendiri.</item>
+        <item>ilmu padi makin berisi makin merunduk > makin banyak pengetahuan makin merendahkan diri.</item>
+        <item>jauh di mata dekat di hati > sekalipun berjauhan, tapi harus selalu ingat - mengingat.</item>
+        <item>jinak-jinak merpati hendak ditangkap ia pun terbang > seorang perempuan yang pura-pura mau tetapi sebenarnya tidak mau.</item>
+        <item>karena tak kenal, maka tak sayang > kita harus mengenal terlebih dahulu baru bisa mengetahui baik buruknya.</item>
+        <item>ke bukit sama mendaki, ke lurah sama menuruni > sama-sama senang, sama-sama susah.</item>
+        <item>kuman di seberang lautan tampak, gajah di pelupuk mata tidak tampak > kesalahan orang sedikit saja tampak tetapi kesalah sendiri tidak disadari.</item>
+        <item>kunyah dahulu, baru telan > pikirkan dahulu sebaik-baiknya, baru dikerjakan.</item>
+        <item>kecil-kecil cabe rawit > kecil tetapi cerdik (membahayakan).</item>
+        <item>lain ladang lain belalang, lain lubuk lain ikannya > tiap-tiap negeri berlainan adat istiadatnya.</item>
+        <item>lidah tak bertulang > orang muda mencela orang lain, dengan tidak berpikir terlebih dahulu.</item>
+        <item>lepas dari mulut buaya masuk ke mulut harimau > sama - sama berbahaya.</item>
+        <item>lempar batu sembunyi tangan > melakukan sesuatu tetapi kemudian berdiam diri seolah - olah tidak tahu menahu.</item>
+        <item>layang-layang putus talinya > seseorang yang putus harapan sudah tidak berdaya lagi hanya berserah kepada nasib.</item>
+        <item>mati ikan karena umpan, mati saya karena budi > kita bisa celaka karena tingkah laku yang kurang baik.</item>
+        <item>menjilat air ludah > orang yang tidak mempunyai malu.</item>
+        <item>menyingsingkan lengan baju > bekerja keras.</item>
+        <item>malu bertanya sesat di jalan > orang yang malu bertanya kepada orang yang lebih pandai akan merugi.</item>
+        <item>memancing di air keruh > mencari keuntungan dalam perselisihan orang.</item>
+        <item>menegakkan benang basah > melakukan pekerjaan yang mustahil dilakukan.</item>
+        <item>masuk kandang kambing mengembik, masuk kandang kerbau menguak > menyesuaikan diri dengan tempat dan keadaan.</item>
+        <item>masuk dari kuping kiri, keluar lewat kuping kanan > tidak mendengarkan nasehat.</item>
+        <item>nasi sama ditanak, kerak sama dimakan > sama-sama bekerja dan memungut hasil.</item>
+        <item>nila setitik rusak susu sebelanga > karena kesalahan yang kecil hilang kebaikan yang telah diperbuat.</item>
+        <item>orang haus diberi air > memberi pertolongan kepada seseorang yang sungguh mengharapkan bantuan.</item>
+        <item>ombak yang kecil jangan diabaikan > perkara yang kecil yang mungkin mendatangkan bahaya jangan diabaikan.</item>
+        <item> pagar makan tanaman > orang yang dipercaya menjaga sesuatu, tetapi ia sendiri yang merusaknya.</item>
+        <item>patah tumbuh hilang berganti > suatu jabatan , apabila yang menjabat berhenti, diganti dengan yang baru.</item>
+        <item>pucuk dicinta ulam pun tiba > yang diperoleh sesuai engan yang diharapkan.</item>
+        <item>rambut sama hitam, hati masing - masing > setiap orang mempunyai kesenangan sendiri-sendiri.</item>
+        <item>seperti kuda lepas pingitan > orang yang sangat gembira karena lepas dari kungkungan.</item>
+        <item>senjata makan tuan > binasa karena tipu daya diri sendiri.</item>
+        <item>sambil menyelam minum air > mendapatkan suatu keuntungan , masih dapat mencari keuntungan yang lain.</item>
+        <item>selama hayat dikandung badan > selama kita masih hidup.</item>
+        <item>si cebol hendak mencapai bulan > menghendaki sesuatu yang mustahil tercapai.</item>
+        <item>sekali rengkuh dayung, dua tiga pulau terlampaui > sekali melakukan pekerjaan beberapa maksud tercapai.</item>
+        <item>seperti kerbau dicocok hidung > selalu menurut saja karena kebodohannya.</item>
+        <item>seperti katak dalam tempurung > sangat picik pengetahuan/makin kurang luas pandangannya.</item>
+        <item>tidak pasah kena pisau, tak sakit kena alu > orang yang sangat tabah menghadapi cobaan.</item>
+        <item>tak ada laut yang tak berombak > tiap-tiap pekerjaan ada resikonya.</item>
+        <item>tak ada gading yang tak retak > tidak ada sesuatu yang tiada cacatnya.</item>
+        <item>takkan lari gunung dikejar, hilang kabut tampaklah ia > jangan tergesa-gesa mengerjakan sesuatu yang telah pasti.</item>
+        <item>udang tak tahu di bungkuknya, orang tak tahu di buruknya > orang buruk yang menyangka dirinya bagus</item>
+        <item>utang emas dapat dibayar, utang budi dibawa mati > kebaikan orang akan diingan selama-lamanya.</item>
+    </string-array>
+
+    <string-array name="katadasar">
+        <item>Pengertian Kata Dasar</item>
+        <item>Kata dasar merupakan satuan bahasa terkecil yang memiliki makna, kata tersebut belum mengalami penambahan atau perubahan bentuk yang mengakibatkan perubahan makna. Dengan pengertian lain bahawa kata dasar ialah kata yang belum di beri imbuhan dan kata yang menjadi dasar awal pembentukan kata yang lebih besar.</item>
+        <item>Kata dasar ialah kata yang paling sederhana yang belum memiliki imbuhan, juga dapat dikelompokkan sebagai bentuk asal “tunggal” dan bentuk dasar “kompleks”.</item>
+
+        <item>Fungsi Kata Dasar</item>
+        <item>Fungsi kata dasar sendiri ialah sebagai penunjang pemaknaan dan kegunaan dari imbuhan termasuk fungsi gramatikal. Kata dasar makan termasuk golongan kata kerja, setelah mendapat afiks -an menjadi makanan, kata tersebut golongan kata benda.</item>
+        <item>Jelas bawah disini fungsi kata dasar sendiri ialah penunjang pembentukan fungsi dari afiks -an yaitu sebagai pembentuk kata benda.</item>
+
+        <item>Contoh Kata Dasar</item>
+
+        <item>Sapu ialah kata dasar yang memiliki makna sebagai kata benda, setelah mendapat awalan me-, maka katanya akan berubah, begitu pula dengan makananya. Sapu mendapat awalan me-, akan menjadi menyapu “huruf S akan luluh” yang berarti melakukan kegiatan membersihkan ruangan. Contoh kalimat:</item>
+        <item>1. Ani menyapu halaman rumahnya dengan sapu.</item>
+        <item>2. Jono mendapatkan menyapu pekerangan sekolah menggunakan sapu lidi.</item>
+        <item>3. Sapu digunakan untuk menyapu tempat yang kotor.</item>
+
+        <item>Pulang ialah kata dasar yang memiliki arti kembali ke tempat asal. Setelah mendapat akhiran -kan, maka kata pulang akan berunah bentuk dan berubah makna. Kata dasar pulang mendapat akhiran -kan akan menjadi pulangi yang berarti menyuruh atau kata dasar pulang yang mendapatkan awalan dan akhiran me- dan -kan. Contoh kalimat:</item>
+        <item>1. Pulangkan mainan yang kamu pinjam kemarin!</item>
+        <item>2. Ani datang untuk memulangkan mainan yang kemarin ia pinjam.</item>
+        <item>3. Joni pulang untuk memulangkan motor yang ia pinjam.</item>
+
+        <item>Warna ialah kata dasar akan memiliki makna yang berbeda bila mendapat awalan dan akhiran. Contoh kalimat:</item>
+        <item>1. Ani memilih warna kuning untuk bahan baju pestanya.</item>
+        <item>2. Ani mewarnai buku gambarnya dengan warna kuning.</item>
+        <item>3. Diwarnainya buku tulis itu dengan pena warna merah.</item>
+
+        <item>Kata dasar jatuh yang mendapatkan imbuhan akan memiliki makna yang berbeda dari kata dasarnya. Contoh kalimat:</item>
+        <item>1. Ani jatuh ketika menaiki tangga.</item>
+        <item>2. Ani menjatuhkan bukunya tepat dihadapanku.</item>
+        <item>3. Buku Ani dijatuhkan tepat di depanku.</item>
+
+        <item>Kata dasar duduk akan menjadi berubah makna jika mendapatkan imbuhan. Contoh kalimat:</item>
+        <item>1. Nona duduk di bangku paling depan di kelap IPA.</item>
+        <item>2. Nona menduduki peringkat satu di kelas IPA.</item>
+        <item>3. Kursi Nona diduduki oleh Rido sewaktu Nona tidak masuk sekolah.</item>
+
+        <item>Kata dasar tinggal akan menjadi berubah makna jika mendapatkan imbuhan. Contoh kalimat:</item>
+        <item>1. Luna tinggal sendirian di rumah kontrakan.</item>
+        <item>2. Luna meninggal dua tahun yang lalu karena kanker otak.</item>
+        <item>3. Luna ditinggal oleh kedua orangtuanya saat ia masih kecil.</item>
+
+        <item>Kata dasar jual akan menjadi berubah makna jika mendapatkan imbuhan. Contoh kalimat:</item>
+        <item>1. Aldi menjual bibit jagung dengan harga yang murah.</item>
+        <item>2. Bibit jagung aldi terjual habis kemarin sore.</item>
+        <item>3. Aldi menjualkan barang dagangan Rindu hingga habis.</item>
+
+    </string-array>
+</resources>
